@@ -7,3 +7,4 @@
 3. Tic Tac Toe Game (Console)
 4. To Do List Project TXT (Console)
 5. Expense Tracker CSV (Console)
+6. Password Generator (Console)
