@@ -28,7 +28,8 @@ sentences = ["The brown fox jumps over the lazy dog",
              "I would really like to build a city for my toys someday", 
              "Why did I have to endure the pain of the loss of a friend?", 
              "Have you bought your stepsisters any presents for our family reunion?", 
-             "What's that smell? Did you put on deodorant before we went outside?"]
+             "What's that smell? Did you put on deodorant before we went outside?",
+             "Laptop for sale! Slightly used, only for $500."]
 
 while True:
     print("""Hello! Welcome to My Typing Test.
